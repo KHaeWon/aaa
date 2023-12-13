@@ -3,4 +3,5 @@
 ### 문서의 하위 제목
 
 <h1>형상관리 서버 테스트</h1>
-https://github.com/KHaeWon/aaa/assets/127920368/51448b5c-4b91-42f1-b6b1-7963d5b4be0f
+![image](https://github.com/KHaeWon/aaa/assets/127920368/1f7bc977-ac38-46de-a7aa-a486c4ff9588)
+
