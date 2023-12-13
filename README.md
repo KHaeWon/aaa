@@ -3,5 +3,5 @@
 ### 문서의 하위 제목
 
 <h1>형상관리 서버 테스트</h1>
-![image](https://github.com/KHaeWon/aaa/assets/127920368/1f7bc977-ac38-46de-a7aa-a486c4ff9588)
 
+![KakaoTalk_20231213_103323428](https://github.com/KHaeWon/aaa/assets/127920368/62148d39-9844-4984-8fb7-3dd1a8ec877b)
